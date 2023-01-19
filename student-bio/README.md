@@ -22,7 +22,7 @@ The following image demonstrates the web application's appearance and functional
 
 You can use this [placeholder image](https://via.placeholder.com/200).
 
----
+
 
 ## 💡 Hints
 
